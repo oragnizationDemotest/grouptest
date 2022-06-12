@@ -7,3 +7,4 @@
 - 当执行`git reset HEAD`命令时，暂存区的目录树会被重写，被 master 分支指向的目录树所替换，但是工作区不受影响。
 - 当执行`git rm --cached <file>` 命令时，会直接从暂存区删除文件，工作区则不做出改变。
   -dev
+  -devnext
